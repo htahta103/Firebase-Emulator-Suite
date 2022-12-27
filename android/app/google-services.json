@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "458912438306",
+    "firebase_url": "https://fir-firebase-emulator-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-firebase-emulator",
+    "storage_bucket": "fir-firebase-emulator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458912438306:android:09b4efca902a32750c127b",
+        "android_client_info": {
+          "package_name": "com.example.auth_with_firebase_emulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458912438306-4u4a8j4k9ve04of02mp4dq89hgdv6r85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgaclOBZQvPQzgB-xiYhZO3WnXB1hZKmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458912438306-4u4a8j4k9ve04of02mp4dq89hgdv6r85.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "458912438306-6499vjq7armt6ac3o207lt7jsuba38se.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.authWithFirebaseSimulator"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
